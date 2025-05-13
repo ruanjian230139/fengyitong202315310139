@@ -3,3 +3,5 @@ const express = require('express');
 
 //创建Web服务器实例对象
 const app = express();
+
+//监听客户端请求方式为GET，请求地址为'/'的请求
